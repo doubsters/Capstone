@@ -1,2 +1,2 @@
-# Capstone
-Thesis Project for Barangay
+# bis
+Barangay Information System using core PHP
